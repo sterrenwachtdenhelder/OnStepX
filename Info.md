@@ -19,7 +19,7 @@
 | Stapmotordrivers| TMC2209 (legacy)|
 
 
-## Instellingen van de kijker die in `Config.h` moeten worden geplaatst.
+## Instellingen die in `Config.h` moeten worden geplaatst.
 De waarde van deze instellingen zijn berekent met het excel bestand te vinden op de OnStep groups.io pagina, of in deze repository met alle waardes al ingevuld.
 
 
