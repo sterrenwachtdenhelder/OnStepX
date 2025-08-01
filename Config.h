@@ -131,6 +131,9 @@
                                           //         ALTAZM      Altitude/Azimuth Mount, Dobsonians, etc.
                                           //         ALTAZM_UNL  ALTAZM w/unlimited Azimuth motion
 
+#define AXIS1_HOME_DEFAULT            180 // angle in degrees, for the RA or Azimuth Axis.
+#define AXIS2_HOME_DEFAULT             20 // angle in degrees, for the Dec or Altitude Axis.
+
 #define MOUNT_ALTERNATE_ORIENTATION   OFF //    OFF, ON Enables Meridian Flips for FORK mounts and passing through the        Option
                                           //         Zenith for ALTAZM mounts.  GEM mode ignores this setting.
                                           
