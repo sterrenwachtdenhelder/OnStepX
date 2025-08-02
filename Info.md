@@ -1,8 +1,13 @@
-## Informatie over de kijker
-| Parameter    | Waarde |
-| ------------ | ------ |
-| RA Reductie  | 720    |
-| DEC Reductie | 480    |
+## Informatie over de telescoop
+| Parameter          | Waarde |
+| ------------------ | ------ |
+| Spiegeldiameter    | 400mm  |
+| Openingsverhouding | 5.6    |
+| Brandpuntafstand   | 2240mm |
+| Monteringtype      | Fork   |
+| RA Reductie        | 720    |
+| DEC Reductie       | 480    |
+
 
 
 ## Informatie over de stapmotoren
